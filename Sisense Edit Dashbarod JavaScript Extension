@@ -1,0 +1,9 @@
+
+
+widget.manifest.data.panels.forEach(function(p){
+
+p.metadata.maxitems = 50; //replace with the number you need
+
+})
+
+
